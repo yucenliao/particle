@@ -1,0 +1,10 @@
+{
+  "name": "Controlled Failure: 失效的控制",
+  "description": "An interactive art installation exploring the relationship between human control and system collapse using face tracking and generative particles.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
